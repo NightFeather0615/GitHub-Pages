@@ -3,6 +3,9 @@ module.exports = {
   darkMode: 'media', // or 'media' or 'class'
   theme: {
     extend: {},
+    fontFamily: {
+      'google-sans': ['"Google Sans"']
+    }
   },
   variants: {
     extend: {},
