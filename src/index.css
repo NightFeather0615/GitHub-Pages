@@ -4,34 +4,34 @@
 
 @font-face {
   font-family: "Google Sans Regular";
-  src: local("google-sans-regular"),   url(./fonts/GoogleSans-Regular.woff) format("woff");
+  src: "google-sans-regular",   url(./fonts/GoogleSans-Regular.woff) format("woff");
 }
 
 @font-face {
   font-family: "Google Sans Regular";
   font-style: italic;
-  src: local("google-sans-regular"),   url(./fonts/GoogleSans-Italic.woff) format("woff");
+  src: "google-sans-regular",   url(./fonts/GoogleSans-Italic.woff) format("woff");
 } 
 
 @font-face {
   font-family: "Google Sans Medium";
-  src: local("google-sans-medium"),   url(./fonts/GoogleSans-Medium.woff) format("woff");
+  src: "google-sans-medium",   url(./fonts/GoogleSans-Medium.woff) format("woff");
 }
 
 @font-face {
   font-family: "Google Sans Medium";
   font-style: italic;
-  src: local("google-sans-medium"),   url(./fonts/GoogleSans-MediumItalic.woff) format("woff");
+  src: "google-sans-medium",   url(./fonts/GoogleSans-MediumItalic.woff) format("woff");
 }
     
 @font-face {
   font-family: "Google Sans Bold";
-  src: local("google-sans-bold"),   url(./fonts/GoogleSans-Bold.woff) format("woff");
+  src: "google-sans-bold",   url(./fonts/GoogleSans-Bold.woff) format("woff");
 }
 
 @font-face {
   font-family: "Google Sans Bold";
   font-style: italic;
-  src: local("google-sans-bold"),   url(./fonts/GoogleSans-BoldItalic.woff) format("woff");
+  src: "google-sans-bold",   url(./fonts/GoogleSans-BoldItalic.woff) format("woff");
 }
   
