@@ -12,7 +12,6 @@ function return_home_page() {
 
 <template>
   <html>
-
     <body style="" class="">
       <div class="flex items-center justify-center h-screen">
         <div class="">
