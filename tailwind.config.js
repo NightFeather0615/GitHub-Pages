@@ -4,7 +4,9 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-      'google-sans': ['"Google Sans"']
+      'google-sans-regular': ['Google Sans Regular'],
+      'google-sans-medium': ['Google Sans Medium'],
+      'google-sans-bold': ['Google Sans Bold'],
     }
   },
   variants: {
