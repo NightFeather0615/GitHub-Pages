@@ -1,37 +1,3 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
-
-@font-face {
-  font-family: "Google Sans Regular";
-  src: local("google-sans-regular"),   url(./fonts/GoogleSans-Regular.woff) format("truetype");
-}
-
-@font-face {
-  font-family: "Google Sans Regular";
-  font-style: italic;
-  src: local("google-sans-regular"),   url(./fonts/GoogleSans-Italic.ttf) format("truetype");
-} 
-
-@font-face {
-  font-family: "Google Sans Medium";
-  src: local("google-sans-medium"),   url(./fonts/GoogleSans-Medium.ttf) format("truetype");
-}
-
-@font-face {
-  font-family: "Google Sans Medium";
-  font-style: italic;
-  src: local("google-sans-medium"),   url(./fonts/GoogleSans-MediumItalic.ttf) format("truetype");
-}
-    
-@font-face {
-  font-family: "Google Sans Bold";
-  src: local("google-sans-bold"),   url(./fonts/GoogleSans-Bold.ttf) format("truetype");
-}
-
-@font-face {
-  font-family: "Google Sans Bold";
-  font-style: italic;
-  src: local("google-sans-bold"),   url(./fonts/GoogleSans-BoldItalic.ttf) format("truetype");
-}
-  
