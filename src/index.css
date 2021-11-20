@@ -2,36 +2,4 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
-@font-face {
-  font-family: "Google Sans Regular";
-  src: "google-sans-regular",   url(./fonts/GoogleSans-Regular.woff) format("woff");
-}
-
-@font-face {
-  font-family: "Google Sans Regular";
-  font-style: italic;
-  src: "google-sans-regular",   url(./fonts/GoogleSans-Italic.woff) format("woff");
-} 
-
-@font-face {
-  font-family: "Google Sans Medium";
-  src: "google-sans-medium",   url(./fonts/GoogleSans-Medium.woff) format("woff");
-}
-
-@font-face {
-  font-family: "Google Sans Medium";
-  font-style: italic;
-  src: "google-sans-medium",   url(./fonts/GoogleSans-MediumItalic.woff) format("woff");
-}
-    
-@font-face {
-  font-family: "Google Sans Bold";
-  src: "google-sans-bold",   url(./fonts/GoogleSans-Bold.woff) format("woff");
-}
-
-@font-face {
-  font-family: "Google Sans Bold";
-  font-style: italic;
-  src: "google-sans-bold",   url(./fonts/GoogleSans-BoldItalic.woff) format("woff");
-}
-  
+@import url('C:\\NightFeather\\Coding\\Vue\\Profile Site\\public\\fonts\\stylesheet.css');
