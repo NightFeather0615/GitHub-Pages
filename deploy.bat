@@ -1,1 +1,1 @@
-start cmd /k "npm run build && rmdir /s /q .\docs && mkdir .\docs && xcopy .\dist .\docs /e /y && git add -A && git commit -m "Deploy at %date%-%time%" && git push -u origin main"
+start cmd /k "npm run build && rmdir /s /q .\docs && mkdir .\docs && xcopy .\dist .\docs /e /y && git add -A && git commit -m "Deploy at %date:~6,4%-%date:~3,2%-%date:~0,2%-%time:~0,2%-%time:~3,2%-%time:~6,2%" && git push -u origin main"
