@@ -2,7 +2,7 @@
 import { ref } from 'vue'
 
 function close_window() {
-  close();
+  window.close();
 }
 
 function return_home_page() {
